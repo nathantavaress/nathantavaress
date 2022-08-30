@@ -2,7 +2,7 @@
 
 - 📚 I'm currently learning intermediate frontend development and a few things about backend development
 - 📫 You can reach me on: nathan.trocha@gmail.com
-<div align="center">
+<div>
   <a href="https://github.com/nathions">
   <img height="180em" float= "right" src="https://github-readme-stats.vercel.app/api?username=nathions&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <aside>
