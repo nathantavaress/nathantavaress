@@ -4,8 +4,8 @@
 - 📫 You can reach me on: nathan.trocha@gmail.com
 <div>
   <a href="https://github.com/nathions">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nathions&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathions&layout=compact&langs_count=7&theme=radical"/>
+  <img align="left" widht="40%" src="https://github-readme-stats.vercel.app/api?username=nathions&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="right" widht="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathions&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div> 
   <a href="https://instagram.com/nathan_tr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
