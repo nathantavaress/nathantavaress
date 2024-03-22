@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Nathan
 
 - 📚 I'm currently learning intermediate frontend development and a few things about backend development
-- 📫 You can reach me on: nathan.trocha@gmail.com
+- 📫 You can reach me on: nathantavaresr@gmail.com or https://www.instagram.com/nathan_tr/
 <div align="center">
   <a href="https://github.com/nathantavaress">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathantavaress&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
