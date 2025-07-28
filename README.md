@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nathan
 
-- 📚 I'm currently learning frontend development and a few things about backend development.
+- 📚 Full Stack software developer at Sispro Software Empresarial
 - 📫 You can reach me on: nathantavaresr@gmail.com or https://www.instagram.com/nathan_tr/
 <div align="center">
   <a href="https://github.com/nathantavaress">
